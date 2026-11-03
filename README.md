@@ -24,7 +24,7 @@ Los repositorios se encuentran organizados en las siguientes áreas:
 
 | Repositorio | Descripción |
 |---|---|
-| [Proyecto-Sonido-Vivo](https://github.com/MatiasBeas-SonidoVivo/Proyecto-Sonido-Vivo) | Aplicación Frontend desarrollada sin React. |
+| [Proyecto-Sonido-Vivo](https://github.com/MatiasBeas-SonidoVivo/Proyecto-Sonido-Vivo.git) | Aplicación Frontend desarrollada sin React. |
 | [ProyectoSonidoVivo-React](https://github.com/MatiasBeas-SonidoVivo/ProyectoSonidoVivo-React) | Aplicación Frontend desarrollada con React. |
 
 ### ⚙️ BACKEND
